@@ -1,10 +1,10 @@
 # Experiment--05-4X4-keypad-interface-with-LPC2148
 
-Name :
+Name : Lakshmi priya
 
-Roll no :
+Roll no : 212221230053
 
-Date of experiment :
+Date of experiment : 5.11.22
 
  
 ### Interfacing a 4X4 keypad LPC2148 ARM 7 Microcontroller 
